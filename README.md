@@ -13,6 +13,6 @@ A simple stock tracker that calculates total investment value based on manually 
 dictionary, input/output, basic arithmetic, file handling (optional)
 
 ## How to Run
-​```bash
-python Stock_Portfolio_Tracker.py
+```bash
+ python Stock_Portfolio_Tracker.py
 ​```
